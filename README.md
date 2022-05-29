@@ -31,7 +31,7 @@ JSON
 
 
 **How to run??**
-1.Run create.py file to create a dataset by providing name and id, it will capture 20 images and store in dataset and convert into array, store in trainner.yml file.
+1.Run create.py file to create a dataset by providing name and id, it will capture 20 images and store in dataset and convert into array, store in xml file.
 
 2.Run detector.py to detect the face. If any face stored in dataset, the name of the person will be displayed.
 
