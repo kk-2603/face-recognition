@@ -1,5 +1,6 @@
 # face-recognition
 Project on OpenCV
+
 Face detection and Recognition using OpenCV-python
 
 A console based application
